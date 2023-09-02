@@ -1,0 +1,68 @@
+{
+    "pages": [
+        {
+            "path": "pages/index/index",
+            "style": {
+                "navigationBarTitleText": ""
+            }
+        }
+    ],
+    "subPackages": [
+        {
+            "root": "subPack/",
+            "pages": [
+                {
+                    "path": "webView/index",
+                    "style": {
+                        "navigationBarTitleText": " ",
+                        "navigationBarBackgroundColor": "#eeeeee"
+                    }
+                },
+                {
+                    "path": "draw/index",
+                    "style": {
+                        "navigationBarTitleText": "每日一签",
+                        "navigationBarBackgroundColor": "#eeeeee",
+                        "navigationStyle": "custom"
+                    }
+                },
+                {
+                    "path": "divine/index",
+                    "style": {
+                        "navigationBarTitleText": "每日一卦",
+                        "navigationBarBackgroundColor": "#eeeeee",
+                        "navigationStyle": "custom"
+                    }
+                },
+                {
+                    "path": "fingerprint/index",
+                    "style": {
+                        "navigationBarTitleText": "指纹算命",
+                        "navigationBarBackgroundColor": "#eeeeee",
+                        "navigationStyle": "custom"
+                    }
+                },
+                {
+                    "path": "woodenFish/index",
+                    "style": {
+                        "navigationBarTitleText": "电子木鱼",
+                        "navigationBarBackgroundColor": "#eeeeee",
+                        "navigationStyle": "custom"
+                    }
+                }
+            ]
+        }
+    ],
+    "globalStyle": {
+        "navigationBarTextStyle": "black",
+        "navigationBarTitleText": "uni-app",
+        "navigationBarBackgroundColor": "#F8F8F8",
+        "backgroundColor": "#F8F8F8"
+    },
+    "preloadRule": {
+        "pages/index/index": {
+            "network": "all",
+            "packages": ["subPack/"]
+        }
+    }
+}

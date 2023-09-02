@@ -1,0 +1,275 @@
+{
+  "id": "4059157",
+  "name": "rz",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1221715",
+      "name": "拼团购",
+      "font_class": "pintuangou",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "14656307",
+      "name": "政策指南针",
+      "font_class": "zhengcezhinanzhen1",
+      "unicode": "e735",
+      "unicode_decimal": 59189
+    },
+    {
+      "icon_id": "6554389",
+      "name": "买家秀有礼",
+      "font_class": "maijiaxiuyouli",
+      "unicode": "e665",
+      "unicode_decimal": 58981
+    },
+    {
+      "icon_id": "15427029",
+      "name": "全屋定制",
+      "font_class": "quanwudingzhi",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "21243080",
+      "name": "分类",
+      "font_class": "fenlei",
+      "unicode": "e653",
+      "unicode_decimal": 58963
+    },
+    {
+      "icon_id": "35660380",
+      "name": "分类-copy",
+      "font_class": "fenlei-copy",
+      "unicode": "ec21",
+      "unicode_decimal": 60449
+    },
+    {
+      "icon_id": "11239042",
+      "name": "积分",
+      "font_class": "jifen",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "1132472",
+      "name": "设计师 建筑师",
+      "font_class": "shejishijianzhushi",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "12284217",
+      "name": "VR",
+      "font_class": "VR1",
+      "unicode": "e827",
+      "unicode_decimal": 59431
+    },
+    {
+      "icon_id": "18211446",
+      "name": "施工",
+      "font_class": "shigong",
+      "unicode": "e7bd",
+      "unicode_decimal": 59325
+    },
+    {
+      "icon_id": "949592",
+      "name": "aui-icon-my",
+      "font_class": "my",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "7206113",
+      "name": "Lamp",
+      "font_class": "lamp",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "7379164",
+      "name": "Shopping Mall",
+      "font_class": "shoppingMall",
+      "unicode": "e79b",
+      "unicode_decimal": 59291
+    },
+    {
+      "icon_id": "10528367",
+      "name": " Home",
+      "font_class": "home",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "12002483",
+      "name": "sofa, couch, interior",
+      "font_class": "sofa",
+      "unicode": "ea35",
+      "unicode_decimal": 59957
+    },
+    {
+      "icon_id": "35168123",
+      "name": "aui-icon-my-copy",
+      "font_class": "my-select",
+      "unicode": "ea36",
+      "unicode_decimal": 59958
+    },
+    {
+      "icon_id": "35168128",
+      "name": "Lamp-copy",
+      "font_class": "lamp-select",
+      "unicode": "ea37",
+      "unicode_decimal": 59959
+    },
+    {
+      "icon_id": "35168129",
+      "name": "Shopping Mall-copy",
+      "font_class": "shoppingMall-select",
+      "unicode": "ea38",
+      "unicode_decimal": 59960
+    },
+    {
+      "icon_id": "35168130",
+      "name": " Home-copy",
+      "font_class": "home-select",
+      "unicode": "ea39",
+      "unicode_decimal": 59961
+    },
+    {
+      "icon_id": "35168131",
+      "name": "sofa, couch, interior-copy",
+      "font_class": "sofa-select",
+      "unicode": "ea3a",
+      "unicode_decimal": 59962
+    },
+    {
+      "icon_id": "2076357",
+      "name": "筛选3",
+      "font_class": "shaixuan",
+      "unicode": "e8b4",
+      "unicode_decimal": 59572
+    },
+    {
+      "icon_id": "5226616",
+      "name": "search",
+      "font_class": "search",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "5652784",
+      "name": "设计师",
+      "font_class": "shejishi",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "7275446",
+      "name": "VR",
+      "font_class": "VR",
+      "unicode": "e6ac",
+      "unicode_decimal": 59052
+    },
+    {
+      "icon_id": "10199169",
+      "name": "方案",
+      "font_class": "fangan",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "12329528",
+      "name": "积分商城",
+      "font_class": "jifenshangcheng",
+      "unicode": "e7b2",
+      "unicode_decimal": 59314
+    },
+    {
+      "icon_id": "2457117",
+      "name": "旧房",
+      "font_class": "jiufang",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "8174661",
+      "name": "新房",
+      "font_class": "xinfang1",
+      "unicode": "ec20",
+      "unicode_decimal": 60448
+    },
+    {
+      "icon_id": "20982811",
+      "name": "别墅",
+      "font_class": "bieshu1",
+      "unicode": "e64b",
+      "unicode_decimal": 58955
+    },
+    {
+      "icon_id": "25195431",
+      "name": "商品房保函-项目申报",
+      "font_class": "shangpinfangbaohan-xiangmushenbao",
+      "unicode": "e6c2",
+      "unicode_decimal": 59074
+    },
+    {
+      "icon_id": "493511",
+      "name": "收藏",
+      "font_class": "my-collect",
+      "unicode": "e7ae",
+      "unicode_decimal": 59310
+    },
+    {
+      "icon_id": "3512027",
+      "name": "装修案例",
+      "font_class": "my-case",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "8554297",
+      "name": "需求",
+      "font_class": "my-order",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "8790636",
+      "name": "主流样板间-01",
+      "font_class": "my-template",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "9041619",
+      "name": "积分商城",
+      "font_class": "my-integral",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "14656238",
+      "name": "共享展厅",
+      "font_class": "my-hall",
+      "unicode": "e72d",
+      "unicode_decimal": 59181
+    },
+    {
+      "icon_id": "14656311",
+      "name": "需求订阅",
+      "font_class": "demand",
+      "unicode": "e734",
+      "unicode_decimal": 59188
+    },
+    {
+      "icon_id": "17334054",
+      "name": "推广订单",
+      "font_class": "promotion",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    }
+  ]
+}
