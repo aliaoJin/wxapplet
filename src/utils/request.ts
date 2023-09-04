@@ -10,7 +10,7 @@ const request = (url: string, method: any = 'GET', data: any, dailyRecord?: any,
     const header: any = { Authorization: ' Bearer ' + TOKEN };
     header['content-type'] = 'application/x-www-form-urlencoded';
     // 默认host
-    const host = 'https://e.mingjugroup.net/api';
+    const host = ' ';
     // 设置日志参数
     const requestData = dailyRecord ? { ...data, dailyRecord: JSON.stringify(dailyRecord) } : { ...data };
     return new Promise((resolve, reject) => {
